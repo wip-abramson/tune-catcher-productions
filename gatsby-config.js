@@ -3,7 +3,31 @@
  */
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `Tune Catcher Productions`,
+    description: `Catching, curating, and releasing music back into the world.`,
+    siteUrl: `https://tunecatcherproductions.com`,
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-postcss",
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Tune Catcher Productions`,
+        short_name: `Tune Catcher`,
+        start_url: `/`,
+        background_color: `#f3e2c6`,
+        theme_color: `#c24b2d`,
+        display: `minimal-ui`,
+        icon: `src/images/tune-catcher-nobg.png`, // Path to your logo
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `imprints`,
+        path: `${__dirname}/src/data/imprints`,
+      },
+    },
+    `gatsby-transformer-json`,
+  ],
 }
