@@ -20,5 +20,27 @@
     {
       "name": "Wip"
     }
+  ],
+  "collection": [
+    {
+      "title": "Lungs - Ruti (Calibre Extended Remix)",
+      "quantity": 3,
+      "image": "./src/data/imprints/images/like-drs/lungs.jpg"
+    },
+    {
+      "title": "Falls to You VIP - Calibre",
+      "quantity": 3,
+      "image": "./src/data/imprints/images/like-drs/falls-to-you.jpg"
+    },
+    {
+      "title": "Sunrise - Calibre, DRS",
+      "quantity": 1,
+      "image": "./src/data/imprints/images/like-drs/sunrise.jpg"
+    },
+    {
+      "title": "Something Heavy - Calibre, Markus Intalex, Fox",
+      "quantity": 1,
+      "image": "./src/data/imprints/images/like-drs/something-heavy.jpg"
+    }
   ]
 }

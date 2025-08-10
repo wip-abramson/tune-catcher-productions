@@ -28,6 +28,13 @@ module.exports = {
         path: `${__dirname}/src/data/imprints`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `soundscapes`,
+        path: `${__dirname}/src/data/soundscapes/`,
+      },
+    },
     `gatsby-transformer-json`,
   ],
 }
