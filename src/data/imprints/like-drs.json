@@ -1,6 +1,6 @@
 {
   "title": "Like DRS, I Like My DnB with a Little Soul",
-  "message": "Shout out to all my liquid heads. Welcome! This is an playful experiment in something I call imprints of experience. You all now own one of these imprints, one of two bad boy liquid DnB records. A gift from Snip! Enjoy the tunes, be sure to check back here now and again to see if and how this space evolves. Hopefully one day it will become a shared memory space, we can all help curate and evolve. But who knows. For now it is just a bit of fun! Much love x. P.S sorry Sen not got the playlist for this one on YouTube yet.",
+  "message": "Shout out to all my **liquid heads**.\n\nWelcome!\n\nThis is an playful experiment exploring an idea I have started calling imprints of experience. This idea can be traced to a short story I wrote a while back - [Experiences in Memory Space](https://futurewip.com/experiences-in-memory-space). My first ever piece of fiction.\n\nIn this story, Helen buys a Dub Pistols record and imprints it with a memory space before gifting it to her pal. Everyone reading these words should now be posession of a similarly imprinted record. One of two bad boy liquid DnB records out of a collection of four (see below).\n\n The first ever imprints of experience.\n\nA gift from Snip & the Tune Catcher!\n\nEnjoy the tunes, be sure to check back here now and again to see if and how this space evolves. Hopefully one day it will become a shared memory space, we can all help curate and evolve. But who knows. For now it is just a bit of fun! \n\n**Much love x**\n\n P.S sorry Sen not got the playlist for this one on YouTube yet.",
   "playlist": {
     "spotify": "https://open.spotify.com/embed/playlist/6RRACent5qQWT8pAMpaEFG?utm_source=generator" 
   },
@@ -8,22 +8,22 @@
     {
       "title": "Lungs - Ruti (Calibre Extended Remix)",
       "owners": ["Wip", "Chazza", "Senners"],
-      "image": "./src/data/imprints/images/like-drs/lungs.jpg"
+      "image": "images/like-drs/lungs.jpg"
     },
     {
       "title": "Falls to You VIP - Calibre",
-      "owners": ["Wip", "Benny Barber", "Amber"],
-      "image": "./src/data/imprints/images/like-drs/falls-to-you.jpg"
+      "owners": ["Wip", "Ben", "Amber"],
+      "image": "images/like-drs/falls-to-you.jpg"
     },
     {
-      "title": "Sunrise - Calibre, DRS",
+      "title": "Sunrise - Calibre feat. DRS",
       "owners": ["Wip"],
-      "image": "./src/data/imprints/images/like-drs/sunrise.jpg"
+      "image": "images/like-drs/sunrise.jpg"
     },
     {
-      "title": "Something Heavy - Calibre, Markus Intalex, Fox",
+      "title": "Something Heavy - Calibre & Markus Intalex feat. Fox",
       "owners": ["Wip"],
-      "image": "./src/data/imprints/images/like-drs/something-heavy.jpg"
+      "image": "images/like-drs/something-heavy.jpg"
     }
   ]
 }

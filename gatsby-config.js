@@ -35,6 +35,9 @@ module.exports = {
         path: `${__dirname}/src/data/soundscapes/`,
       },
     },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     `gatsby-transformer-json`,
   ],
 }

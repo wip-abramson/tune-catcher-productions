@@ -22,7 +22,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type CollectionItem {
       title: String
       owners: [String!]!
-      image: String
+      image: File @fileByRelativePath
     }
 
     type ImprintFields {
