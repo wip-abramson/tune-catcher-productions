@@ -1,5 +1,8 @@
 {
-  "spotify": "6RRACent5qQWT8pAMpaEFG",
+  "playlist": {
+    "spotify": "https://open.spotify.com/embed/playlist/6RRACent5qQWT8pAMpaEFG?utm_source=generator",
+    "youtube": "https://www.youtube.com/embed/videoseries?si=0cSYbyXXiJWDcLco&amp;list=PLCiywhiJwmB07q-14JyfGyNkuDRvKHxxe"
+  },
   "title": "Like DRS, I Like My DnB with a Little Soul",
   "description": "This one's for all the liquid heads out there. Smooth liquidy boppers. Don't shuffle.",
   "path": "like-drs"

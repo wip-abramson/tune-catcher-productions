@@ -18,7 +18,6 @@ export default function HomePage() {
           Catching, curating, and releasing music back into the world. 
           Funky beats, curated playlists, and soundscapes for every journey.
         </p>
-        <p>Coming soon: playlists, blogs, vinyl drops & more.</p>
         <img 
           src={bird} 
           alt="The Tune Catcher" 
